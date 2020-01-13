@@ -1,0 +1,18 @@
+
+Game Design Notes
+
+- Flow of Character
+- VIews
+- Emotion
+- Battle
+- Hiding Places
+- Health
+- Pickups
+- Objectives
+- Goals
+- Focal Point
+- Music/SFX
+- VFX
+- Enemy Locations
+- NPC Locations
+- Enviornment Interactions
